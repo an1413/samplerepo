@@ -7,3 +7,5 @@
 * hello world
 * hello world
 * hello world
+
+첫번째 커밋
